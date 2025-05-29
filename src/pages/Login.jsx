@@ -12,7 +12,8 @@ export default function Login() {
       setUserId(res.data.userId);
       localStorage.setItem('userId', res.data.userId);
       localStorage.setItem('code', res.data.code);
-      alert('Login successful');
+      // Redirect to home page on successful login
+      window.location.href = '/';
     } catch (err) {
       alert('Invalid credentials');
     }

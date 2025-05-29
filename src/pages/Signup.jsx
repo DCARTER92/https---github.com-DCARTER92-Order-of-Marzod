@@ -14,10 +14,10 @@ export default function Signup() {
         password,
         inviteCode
       });
-      setResponseCode(res.data.code);
       localStorage.setItem('code', res.data.code);
       localStorage.setItem('userId', res.data.userId);
-      alert('Signup successful! Your referral code is: ' + res.data.code);
+      // Redirect to home page on successful signup
+      window.location.href = '/';
     } catch (err) {
       alert('Signup failed: ' + err.response.data.error);
     }
