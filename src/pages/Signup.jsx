@@ -16,6 +16,7 @@ export default function Signup() {
       });
       setResponseCode(res.data.code);
       localStorage.setItem('code', res.data.code);
+      localStorage.setItem('userId', res.data.userId);
       alert('Signup successful! Your referral code is: ' + res.data.code);
     } catch (err) {
       alert('Signup failed: ' + err.response.data.error);
