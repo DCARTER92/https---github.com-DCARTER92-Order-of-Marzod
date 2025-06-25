@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ShaderBackground from '../components/ShaderBackground';
 import BookMarkdownViewer from '../components/BookMarkdownViewer';
+import TableOfContents from '../components/TableOfContents';
 
 const bookFiles = [
   { key: 'book1', file: '/books/the_book-of-water.md', title: 'The Book of Water' },
@@ -14,8 +15,14 @@ const bookFiles = [
 ];
 
 export default function Books() {
-  const [selected, setSelected] = useState(bookFiles[0].key);
-  const selectedBook = bookFiles.find(b => b.key === selected);
+  const [selectedBookKey, setSelectedBookKey] = useState(bookFiles[0].key);
+  const [selectedChapter, setSelectedChapter] = useState(null);
+
+  const selectedBook = bookFiles.find(b => b.key === selectedBookKey);
+
+  const handleSelectChapter = (chapterTitle) => {
+    setSelectedChapter(chapterTitle);
+  };
 
   return (
     <>
@@ -25,21 +32,24 @@ export default function Books() {
         <h1 className="text-4xl font-bold mb-8 text-center text-shadow-lg">Books of The Order of Marzod</h1>
         <nav className="mb-8 sticky top-0 bg-gray-900/90 p-4 rounded shadow backdrop-blur-sm">
           <h2 className="text-2xl font-semibold mb-4 text-shadow-lg">Table of Contents</h2>
-          <ul className="list-disc list-inside space-y-2 text-shadow-lg">
+          <select
+            className="bg-gray-800 text-white p-2 rounded mb-4 w-full"
+            onChange={(e) => {
+              setSelectedBookKey(e.target.value);
+              setSelectedChapter(null);
+            }}
+            value={selectedBookKey}
+          >
             {bookFiles.map(({ key, title }) => (
-              <li key={key}>
-                <button
-                  className={`text-blue-400 hover:underline ${selected === key ? 'font-bold underline' : ''}`}
-                  onClick={() => setSelected(key)}
-                >
-                  {title}
-                </button>
-              </li>
+              <option key={key} value={key}>
+                {title}
+              </option>
             ))}
-          </ul>
+          </select>
+          <TableOfContents file={selectedBook.file} onSelect={handleSelectChapter} />
         </nav>
         <section className="mb-32 bg-black/30 backdrop-blur-sm rounded-lg p-8">
-          <BookMarkdownViewer file={selectedBook.file} title={selectedBook.title} />
+          <BookMarkdownViewer file={selectedBook.file} title={selectedBook.title} chapter={selectedChapter} />
         </section>
       </div>
     </>
