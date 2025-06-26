@@ -13,6 +13,7 @@ Things This is Not
 
 3. Incontrovertible. My take on history is up for debate, and I don't even stick to that. I do some speculation on the early days of the Israelites and Levantine mythology that is not widely accepted anywhere, but it's rooted in what little historical fact there is, and extrapolated based on reading the Bible with a critical eye, an understanding of basic psychology, and a good sense of mythological pattern recognition. All I can guarantee you is that my theories show a cleaner, simpler, more believable version of history than the Bible, I've done whatever legwork is possible to verify my ideas, and I won't pass you any information I know isn't true. My accuracy and intelligence are both up for debate. My only hard facts, until we reach the Babylonian Captivity, are that Abraham was a popular figure of Levantine myth, the Israelites split from the Canaanites around 1200 BCE, and Joshua didn't conquer Canaan. Any more than that is just me telling you what I think.
 
+
 All that in mind, let's hop to it.
 
 Levant: Prehistory - 1200 BCE
@@ -44,3 +45,44 @@ In Closing
 The Nazis, White Nationalists, crusades, inquisitions, colonialism, and 1,000 years of oppressive Middle Eastern regimes are the direct and unavoidable result of power paired with Levite dogma based in purity and exclusion. The Levites poisoned a well that three quarters of the world drank from, willingly or by force, and the only time this rhetoric is ever benevolent is when it's powerless to act the way it naturally wants to. But, again, this is not a call to oppress or mistreat anybody. Even a good half of the most Orthodox Jews you can find will reject Zionism, loudly and enthusiastically till they're blue in the face, and most Jews aren't even close to Orthodox. Most Christians and Muslims believe in peace and harmony. All I'm saying is cut out the "divinely inspired and always right word of God" crap, because when you say that, you're saying the Levites, with all their hate, control, and regressive, harmful mentalities, have a pretty good point. Let's leave the Bronze Age ideals where they damn well belong, because without those, there's every chance the Abrahamic faiths can be something great.
 
 
+
+Part Two: Analysis
+
+
+Genesis
+
+
+Hard Facts
+
+
+The Israelites, most likely Canaanite peasants, split from society to form their own culture around 1200 BCE.
+
+
+Abraham was a major mythological figure in many cultures.
+
+
+Notable Mentions
+
+
+Well of Beer-sheba: Probably the city of Beer-sheba's origin myth, involving a goddess on the edge of death in the desert, and a god who produces a magical well to save her.
+
+
+Pillars of Bethel: We have no idea what these were, only that they existed and were prominent enough in local myth that the Israelites put them in their own myths.
+
+
+My Take
+
+
+Our story opens on the myth of Abraham. He's not exactly the strongest, but he's wily, like a Semetic Odysseus. He goes around making deals with djinn and making them regret it, where a normal person gets taken to the cleaners, he's screwing goddesses, getting rich, kicking ass, taking names. Everyone loves him. Everyone says he's the father of their culture, and the strongest claim, the most widespread story, is in Arabia, where they say Abraham fathered Ishmael on their mother goddess, who the Egyptians call Hathor.
+
+
+The Canaanites don't like that. They love Abraham too, and won't let the Arabs have him. Ishmael can't be denied outright, the myth is too strong, so they invent this other son of Abraham, Isaac, and tweak details around until Ishmael is illegitimate and Hathor is a slave named Hagar. But, because the Canaanites have another culture living with them, they also have to give Isaac two sons, one of whom has the true bloodline, the other with no standing for Abraham's inheritance. Esau is the older brother, great hunter, a man's man, and Jacob is the younger brother, kind of a squirrelly, quiet guy, and of course Esau is the heir. The myth seems to have been a Prodigal Son thing, where Jacob can't stand being second rate and runs off, and when he comes crawling back, Esau graciously takes him back into the family. Later, the Canaanites want to stop squabbling over mythology with the Arabians, so they have Esau marry into one of their prominent lines so everybody can be heirs of Abraham and get back to trading with each other.
+
+
+This other culture, the descendants of Jacob, are called Israelites because they struggle against the gods of Canaan, that's the meaning of the word in their language. Can hardly blame them, if I were permanently relegated to being a second class citizen because of Canaanite bedtime stories, I may not like them much either. These people really, really like this minor storm god of their ancestors, the one they had before the Canaanites absorbed them, and while they'll have some limited interaction with the other gods, it's mostly all Yahweh, all the time, and he's not given much of a place in the Canaanite Pantheon because that's the god of the peasants. These people absorb a lot of Canaanite mythology, too, including the story of Jacob and Esau, but they tweak these stories to make them about the Israelites. Esau sold his birthright, you see, so Jacob is the true heir. God came down for a wrestling match one night, that's why Jacob is called Israel.
+
+
+But it's the social status situation that's important. If history shows us anything, it's that the people on the bottom of the wheel don't enjoy it, and they'll do their best to spin it and try for a better spot, so there's a lot of backroom meetings and talk of social reform, and overall it's just a really great revolution that makes excellent progress, the Israelites are starting to be SOMEBODY. Their status is rising so much, in fact, that in the city of Schechem, an Israelite girl catches the eye of a Canaanite noble, and he doesn't see it as a stain on his honor to pursue her. We're not sure how far it went, or the exact circumstances, or whether it was consensual, but the upshot is her Israelite family, led by the Simeonites and Levites, are outraged, this just will not stand. But they're sneaky, they tell this nobleman it's fine, it's okay, he just has to accept their traditions, probably get circumcised, fit in enough that a marriage can take place to save Israelite honor. The nobleman agrees, they have a wedding, and then they make their woman a widow real quick, because that's how you preserve family honor, baby. And besides, they may only be Israelites, but after all these generations, isn't the top rung of Israelite society at least equal to the bottom rung of Canaanite nobility, able to uphold their family's honor?
+
+
+"Ha, no," say the Canaanites of Schechem. There's a brutal crackdown, revenge killings, imprisonments, and the upshot is that the Levites have made it impossible to live in Schechem, and the Israelites will not be forgetting it anytime soon. Life in Schechem was fine, we were getting somewhere, and these pricks screwed the whole thing up for reasons that have nothing to do with the rest of us. They flee the city and live as nomads and herders for a good long while afterward. The Levites are stripped to nothing, owning no land, no armies, no herds, dependent on their brother tribes for support. But don't worry, they
