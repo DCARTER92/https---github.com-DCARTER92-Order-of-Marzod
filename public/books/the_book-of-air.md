@@ -1,12 +1,11 @@
-Introduction
-
-
+# The Book of Air  
+## Introduction  
 
 The Book of Air will deal primarily in fully linking spiritually with an intelligent being, including seance and invocation of gods. As explained in the Book of Fire, this form of linking is very dangerous, and should not be attempted by those of insufficient experience. The method of the link is the same as a Reading, but is rendered more difficult by the need to bypass two personalities. The more fundamental the differences between the personalities, the less likely is success to be found. It cannot be overemphasized that caution must be exercised in this endeavor.
 
 
 
-The Soul
+## The Soul  
 
 
 
@@ -60,7 +59,7 @@ The third part of the soul, the Umbra, is the thing referenced in talk of spirit
 
 
 
-The Marzodian Star
+## The Marzodian Star  
 
 
 
@@ -88,7 +87,7 @@ As a final step, Wood, Metal, Water, Fire shall be dedicated to East, North, Wes
 
 
 
-Scrying
+## Scrying  
 
 
 
@@ -112,7 +111,7 @@ However, all methods do not require Numerology. By observing a candle flame or p
 
 
 
-Linking with Spirits
+## Linking with Spirits  
 
 
 
@@ -140,7 +139,7 @@ To strengthen the link with a Spirit, some Practitioners choose to leave a sympa
 
 
 
-Conjunction of Souls
+## Conjunction of Souls  
 
 
 
@@ -153,4 +152,3 @@ Begin by performing Fortification on the Forge, or living area. Every day begins
 
 
 On the night of the Full Moon, when the herbal baths are complete, the group may begin their work. After a time of clearing minds in preparation, each Disciple is to channel their energy to the Keeper, surrendering their will to his, keeping their focus on their task. The Keeper shall focus wholly on the previously agreed upon target of the work. None of them shall speak, or make any unnecessary sound or movement, until the end of the work.
-
