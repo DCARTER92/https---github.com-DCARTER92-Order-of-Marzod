@@ -1,6 +1,5 @@
-Introduction
-
-
+# The Book of Water
+## Introduction  
 
 I want to tell you all how I came to be here today, writing this book. For most of my life, I was an Atheist. I never was all that solid with God, because when I was around 3 or 4, I convinced myself my Dad was going to Hell. He drank, smoke, cussed, and I didn't have a real firm grip on the difference between breaking rules and sinning, so I pretty much considered it a done deal, that when he died he'd go to Hell, and I was bound and determined to go with him. I eventually grew out of that, just in time to discover the really early stages of social media that we had back in the early 2000s. I was about 13, and for those of you that don't know, the Internet is just packed full of Atheists. Now, it had never occurred to me to ask whether God was actually real in all my 13 years, but it turned out every time I got in an argument with somebody about which side made more sense, I'd get my argument ripped to shreds and just feel like an absolute fool.
 
@@ -38,11 +37,11 @@ The focus here will be on Hinduism and the God of Abraham, because those are the
 
 
 
-Part One: Marzod
+## Part One: Marzod
 
 
 
-I: Everything is Everything
+### I: Everything is Everything  
 
 
 
@@ -98,7 +97,7 @@ Marzod started off fully interconnected, with limitless potential, but it change
 
 
 
-II: Of Ghosts and Gods
+### II: Of Ghosts and Gods  
 
 
 
@@ -122,7 +121,7 @@ Far as most of Hinduism goes, a ghost and a god being the same is no surprise at
 
 
 
-III: Piano Man
+### III: Piano Man  
 
 
 
@@ -154,7 +153,7 @@ The key here is in the nature of Marzod, everything is one, but imagines itself 
 
 
 
-IV: As Below, So Above
+### IV: As Below, So Above  
 
 
 
@@ -184,11 +183,11 @@ The farther you go up the soul chain, the more powerful the perspective. The nex
 
 
 
-Part Two: The God of Abraham
+## Part Two: The God of Abraham  
 
 
 
-I: There's Only One Sin
+### I: There's Only One Sin  
 
 
 
@@ -236,7 +235,7 @@ To anyone else who thinks the letter of the law is still important after you've 
 
 
 
-II: Divine Identity Crisis
+### II: Divine Identity Crisis  
 
 
 
@@ -268,7 +267,7 @@ Does that theory change anything? Not really. God is God, whether he's an indivi
 
 
 
-III: Separation of Power
+### III: Separation of Power  
 
 
 
@@ -312,7 +311,7 @@ In the end, this idea doesn't weaken the God of Abraham. He's still the Universe
 
 
 
-IV: Life After Death
+### IV: Life After Death  
 
 
 
@@ -364,11 +363,11 @@ Still, you can always change, God himself started off being all about jealousy a
 
 
 
-Part Three: Hinduism
+## Part Three: Hinduism  
 
 
 
-I: Plants Are People Too
+### I: Plants Are People Too  
 
 
 
@@ -404,7 +403,7 @@ Look, end of the day, both sides can be defended on practical, moral, and ethica
 
 
 
-II: Reincarnation Re-examined
+### II: Reincarnation Re-examined  
 
 
 
@@ -437,4 +436,3 @@ If you know about the Ship of Theseus, you know what I'm talking about. If you d
 
 
 That being said, just because reincarnation probably isn't real doesn't mean Karma's not. If you're a selfish, backstabbing prick, it doesn't matter how many material rewards you have, you'll have no community and no real friends, while a generosity of spirit will lead to strong social ties. That's what matters in the end, ask any workaholic on their deathbed whether they wish they'd spent more time getting stuff or being with their friends and family. And if you like the idea of reincarnation, that's just fine. If it brings you peace, if it explains the world in a way that makes sense to you, I can't tell you it definitely doesn't exist. And since it makes no practical difference, you go on and believe it, nobody can tell you you're wrong for sure.
-
