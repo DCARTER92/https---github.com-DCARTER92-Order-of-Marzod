@@ -16,15 +16,30 @@ const TableOfContents = ({ file, onSelect }) => {
         lines.forEach(line => {
           const partMatch = line.match(/^Part (\w+): (.*)/);
           const chapterMatch = line.match(/^([IVXLCDM]+): (.*)/);
+          const headingMatch = line.match(/^(#{1,6})\s+(.*)/);
 
           if (partMatch) {
             if (currentPart) {
               newToc.push(currentPart);
             }
-            currentPart = { title: `Part ${partMatch[1]}: ${partMatch[2]}`, chapters: [] };
+            currentPart = { 
+              title: `Part ${partMatch[1]}: ${partMatch[2]}`, 
+              id: `part-${partMatch[1].toLowerCase()}-${partMatch[2].toLowerCase().replace(/\s+/g, '-')}`,
+              chapters: [] 
+            };
           } else if (chapterMatch && currentPart) {
-            currentChapter = { title: `${chapterMatch[1]}: ${chapterMatch[2]}`, lines: [] };
+            currentChapter = { 
+              title: `${chapterMatch[1]}: ${chapterMatch[2]}`,
+              id: `${chapterMatch[1].toLowerCase()}-${chapterMatch[2].toLowerCase().replace(/\s+/g, '-')}`,
+              lines: [] 
+            };
             currentPart.chapters.push(currentChapter);
+          } else if (headingMatch && currentChapter) {
+            currentChapter.lines.push({
+              level: headingMatch[1].length,
+              text: headingMatch[2],
+              id: headingMatch[2].toLowerCase().replace(/\s+/g, '-')
+            });
           }
         });
 
@@ -43,12 +58,12 @@ const TableOfContents = ({ file, onSelect }) => {
           <ul className="list-disc list-inside ml-4 space-y-1">
             {part.chapters.map((chapter, chapterIndex) => (
               <li key={chapterIndex}>
-                <button
+                <a
+                  href={`#${chapter.id}`}
                   className="text-blue-400 hover:underline"
-                  onClick={() => onSelect(chapter.title)}
                 >
                   {chapter.title}
-                </button>
+                </a>
               </li>
             ))}
           </ul>

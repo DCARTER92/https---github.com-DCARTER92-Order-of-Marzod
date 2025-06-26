@@ -20,9 +20,6 @@ export default function Books() {
 
   const selectedBook = bookFiles.find(b => b.key === selectedBookKey);
 
-  const handleSelectChapter = (chapterTitle) => {
-    setSelectedChapter(chapterTitle);
-  };
 
   return (
     <>
@@ -46,7 +43,7 @@ export default function Books() {
               </option>
             ))}
           </select>
-          <TableOfContents file={selectedBook.file} onSelect={handleSelectChapter} />
+          <TableOfContents file={selectedBook.file} />
         </nav>
         <section className="mb-32 bg-black/30 backdrop-blur-sm rounded-lg p-8">
           <BookMarkdownViewer file={selectedBook.file} title={selectedBook.title} chapter={selectedChapter} />

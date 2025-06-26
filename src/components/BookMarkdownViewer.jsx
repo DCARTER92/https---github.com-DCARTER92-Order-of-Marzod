@@ -1,23 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-
-// Helper to extract headings for TOC
-function extractHeadings(markdown) {
-  const lines = markdown.split('\n');
-  const headings = [];
-  lines.forEach((line, idx) => {
-    const match = line.match(/^(#{1,6})\s+(.*)/);
-    if (match) {
-      headings.push({
-        level: match[1].length,
-        text: match[2],
-        line: idx + 1,
-        id: match[2].toLowerCase().replace(/[^a-z0-9]+/g, '-')
-      });
-    }
-  });
-  return headings;
-}
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
+import rehypeHighlight from 'rehype-highlight';
+import rehypeSlug from 'rehype-slug';
 
 export default function BookMarkdownViewer({ file, title, chapter }) {
   const [markdown, setMarkdown] = useState('');
@@ -50,7 +36,14 @@ export default function BookMarkdownViewer({ file, title, chapter }) {
   return (
     <div className="prose prose-invert max-w-none flex-1">
       {loading ? <div>Loading...</div> :
-        <ReactMarkdown>
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          rehypePlugins={[
+            rehypeRaw,
+            rehypeHighlight,
+            rehypeSlug
+          ]}
+        >
           {markdown}
         </ReactMarkdown>
       }
