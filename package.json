@@ -1,15 +1,15 @@
 {
   "name": "order_of_marzod_site",
   "version": "1.0.0",
-  "description": "The Order of Marzod - Vite + React + Tailwind Site",
+  "description": "Order of Marzod web project",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "Order of Marzod",
+  "author": "DCARTER92",
   "license": "MIT",
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
