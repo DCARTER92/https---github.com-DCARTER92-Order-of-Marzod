@@ -9,7 +9,6 @@ const bookFiles = [
   { key: 'book3', file: '/books/the_book-of-earth.md', title: 'The Book of Earth' },
   { key: 'book4', file: '/books/the_book-of-fire.md', title: 'The Book of Fire' },
   { key: 'book5', file: '/books/the_book-of-air.md', title: 'The Book of Air' },
-  { key: 'book6', file: '/books/the_book-of-wood.md', title: 'The Book of Wood' },
   { key: 'foundational', file: '/books/the_foundational-accords.md', title: 'Foundational Accords' },
   { key: 'bible', file: '/books/the_bible-analysis.md', title: 'The Bible - An Analysis' }
 ];

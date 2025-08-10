@@ -13,5 +13,15 @@ export default defineConfig({
   },
   server: {
     port: 3000
-  }
-})
+    },
+
+    // Build options for readable output
+    build: {
+      minify: false, // disables minification
+      rollupOptions: {
+        output: {
+          manualChunks: undefined // disables chunk splitting
+        }
+      }
+    }
+  })
